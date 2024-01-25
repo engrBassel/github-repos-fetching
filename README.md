@@ -1,4 +1,4 @@
-# Github repositories Fetching
+# Github repositories fetching
 - This repo contains github repositories fetching by username
 - Using HTML, CSS, JavaScript and github API.
 - After typing the username, you can press "enter" or click "Get repos" button.
